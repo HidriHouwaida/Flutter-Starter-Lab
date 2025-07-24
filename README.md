@@ -12,6 +12,9 @@
 | [🧩 **MatchMind**](/MatchMind) | Memory Matching Game | `dart:math`, `Gesture Detection` |
 | [🛠 **FlutterPrimer**](/FlutterPrimer) | Core Widgets Catalog | `Material Design`, `Layouts` |
 
+## 🏗️ Architectural Overview
+
+```mermaid
 graph TD
     A[Flutter] --> B[FactOrMyth]
     A --> C[FaunaSound]
@@ -21,3 +24,4 @@ graph TD
     C --> G[Audio Playback]
     D --> H[Game State]
     E --> I[Widget Library]
+```
