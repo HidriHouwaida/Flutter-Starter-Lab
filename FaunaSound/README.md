@@ -1,16 +1,10 @@
-# animals_sound
+# 🐾 FaunaSound - Animal Sounds Explorer
+ 
+*An interactive educational app that plays authentic animal sounds*
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Key Features
+- 🎵 **Real animal sounds** using `audioplayers` package
+- 🖼️ **Visual animal recognition** with images
+- 🎨 **Colorful UI** with responsive design
+- 🔊 **Instant playback** with single-tap interaction
+- 🐶 **6 animal profiles**
